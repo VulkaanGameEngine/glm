@@ -1,0 +1,1 @@
+IncludeDirs.GLM = "%{wks.location}/vendors/glm"
